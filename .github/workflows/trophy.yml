@@ -1,0 +1,47 @@
+name: Generate Trophies
+
+# The public trophy service (github-profile-trophy.vercel.app) is often
+# rate-limited (HTTP 402). This workflow fetches the SVG on a schedule and
+# commits it to the `trophy-output` branch ONLY when the upstream service is
+# healthy — so GitHub then serves a stable, cached copy from your own repo.
+# It never commits an error page. (Trophies stay hidden in README.md until
+# this branch is populated — see the commented block at the bottom of the README.)
+
+on:
+  schedule:
+    - cron: "0 3 * * *"        # every day at 03:00 UTC
+  workflow_dispatch:            # run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Fetch trophy SVG (retry until healthy)
+        run: |
+          mkdir -p dist
+          URL="https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+          ok=0
+          for i in 1 2 3 4 5 6; do
+            code=$(curl -sSL -o dist/trophy.svg -w "%{http_code}" "$URL" || echo 000)
+            if [ "$code" = "200" ] && grep -q "<svg" dist/trophy.svg; then
+              echo "✅ trophy fetched on attempt $i"; ok=1; break
+            fi
+            echo "attempt $i → HTTP $code, retrying in 30s…"
+            sleep 30
+          done
+          if [ "$ok" != "1" ]; then
+            echo "::warning::trophy service unavailable — skipping commit this run"
+            exit 1
+          fi
+
+      - name: Push to the `trophy-output` branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: trophy-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,33 @@
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "30 0 * * *"       # every day at 00:30 UTC
+  workflow_dispatch:            # run manually from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      # Snake pushes to `output`; Pac-Man gets its own branch so they don't
+      # overwrite each other (the deploy action force-replaces the branch).
+      - name: Push to the `pacman-output` branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,25 +1,135 @@
-<h1 align="center">Hi 👋, I'm Devansh Khetan</h1>
-<h3 align="center">I love AI.</h3>
+<!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshk72&label=Profile%20views&color=0e75b6&style=flat" alt="devanshk72" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshk72" alt="devanshk72" /></a> </p>
+  <a href="https://dkay.bearblog.dev/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=900&color=6C63FF&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Devansh+Khetan;AI+%2F+Deep+Learning+Enthusiast;PyTorch+%E2%80%A2+Full-Stack+%E2%80%A2+Open+Source;Always+building%2C+always+learning" alt="Devansh Khetan" />
+  </a>
 
-- 🌱 I’m currently learning **Deep Learning and PyTorch**
+  <br/>
 
-- 👨‍💻 All of my projects are available at [https://dkay.bearblog.dev/](https://dkay.bearblog.dev/)
+  <img src="https://komarev.com/ghpvc/?username=devanshk72&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
+  <a href="https://github.com/devanshk72?tab=followers">
+    <img src="https://img.shields.io/github/followers/devanshk72?label=Followers&style=flat&color=6C63FF" alt="followers" />
+  </a>
 
-- 📫 How to reach me **devanshkhetan9@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devansh-khetan-027681176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-khetan-027681176" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/not_dal_baati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="not_dal_baati/" height="30" width="40" /></a>
-</p>
+<!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshk72&show_icons=true&locale=en&layout=compact" alt="devanshk72" /></p>
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshk72&show_icons=true&locale=en" alt="devanshk72" /></p>
+- I **love AI** — currently deep in **Deep Learning & PyTorch**
+- Building ML + full-stack projects; write-ups live at **[dkay.bearblog.dev](https://dkay.bearblog.dev/)**
+- Ask me about **Python, Machine Learning, and Full-Stack**
+- Grinding problems on LeetCode as **[not_dal_baati](https://leetcode.com/not_dal_baati/)**
+- Reach me at **devanshkhetan9@gmail.com**
+
+###
+
+<!-- ═══════════════════════════════  TECH STACK  ═══════════════════════════════ -->
+
+### Tech Stack
+
+<div align="center">
+
+**Languages & ML**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,ts,js&theme=dark" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,html,css&theme=dark" alt="frontend" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" alt="backend" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,rust,linux&theme=dark" alt="tools" />
+
+</div>
+
+###
+
+<!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
+
+### GitHub Stats
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=devanshk72&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="185" alt="streak stats" />
+
+</div>
+
+###
+
+<!-- ═══════════  SNAKE — auto-generated by .github/workflows/snake.yml (`output` branch)  ═══════════ -->
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/devanshk72/devanshk72/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devanshk72/devanshk72/output/github-snake.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/devanshk72/devanshk72/output/github-snake.svg" />
+  </picture>
+
+</div>
+
+###
+
+<!-- ═══════════  PAC-MAN — auto-generated by .github/workflows/pacman.yml (`pacman-output` branch)  ═══════════ -->
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/devanshk72/devanshk72/pacman-output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devanshk72/devanshk72/pacman-output/pacman-contribution-graph.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/devanshk72/devanshk72/pacman-output/pacman-contribution-graph.svg" />
+  </picture>
+
+</div>
+
+###
+
+<!-- ═══════════════════════════════  CONNECT  ═══════════════════════════════ -->
+
+### Connect With Me
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/devansh-khetan-027681176" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin" />
+  </a>
+  <a href="https://leetcode.com/not_dal_baati/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode" />
+  </a>
+  <a href="mailto:devanshkhetan9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail" />
+  </a>
+  <a href="https://dkay.bearblog.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="blog" />
+  </a>
+
+</div>
+
+###
+
+<!-- ══════════════  OPTIONAL: TROPHIES  ══════════════
+     The public trophy service (github-profile-trophy.vercel.app) is frequently
+     rate-limited (HTTP 402). .github/workflows/trophy.yml self-hosts it by
+     committing a cached SVG to the `trophy-output` branch whenever the upstream
+     service is healthy. Once that branch is populated, delete this comment
+     wrapper to show your trophies:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devanshk72/devanshk72/trophy-output/trophy.svg" alt="trophies" />
+</div>
+-->
+
+<div align="center">
+  <sub>Thanks for stopping by — <a href="https://dkay.bearblog.dev/">read my write-ups</a></sub>
+</div>
