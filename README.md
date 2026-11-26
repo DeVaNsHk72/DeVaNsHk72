@@ -21,9 +21,9 @@
 
 ### About Me
 
-- I **love AI** — currently deep in **Deep Learning & PyTorch**
-- Building ML + full-stack projects; write-ups live at **[dkay.bearblog.dev](https://dkay.bearblog.dev/)**
-- Ask me about **Python, Machine Learning, and Full-Stack**
+- I **love AI** — currently deep in **Backend and ML.**
+- Building ML + full-stack projects;
+- Ask me about **Backend Development & Machine Learning.**
 - Grinding problems on LeetCode as **[not_dal_baati](https://leetcode.com/not_dal_baati/)**
 - Reach me at **devanshkhetan9@gmail.com**
 
